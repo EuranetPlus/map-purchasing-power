@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Missä EU:ssa 100 eurolla saa pisimmän hyödyn?",
+  "subtitle": "Vuonna 2025 keskimäärin 100 euroa maksavat tavarat ja palvelut maksoivat EU:ssa Bulgariassa noin 62,50 euroa ja Tanskassa 139,70 euroa. Tämä teki Tanskasta yli kaksi kertaa kalliimman kuin Bulgaria.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Eurostat käyttää ostovoimapariteetteja ja valuuttakursseja kotitalouksien hintojen vertailuun eri maiden välillä. EU:n keskiarvon ollessa 100, arvo 80 tarkoittaa, että keskimäärin 100 euroa maksavat tavarat ja palvelut maksavat EU:ssa noin 80 euroa paikallisesti. Pienemmät arvot tarkoittavat, että samalla budjetilla voi ostaa enemmän.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
