@@ -1,13 +1,11 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "Where in the EU does €100 go furthest?",
+  "subtitle": "In 2025, goods and services costing €100 on average across the EU cost about €62.50 in Bulgaria and €139.70 in Denmark. That made Denmark more than twice as expensive as Bulgaria.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat uses purchasing power parities and exchange rates to compare household prices across countries. With the EU average set at 100, a value of 80 means that goods and services costing €100 on average across the EU cost about €80 locally. Lower values mean the same budget buys more.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
