@@ -1,13 +1,11 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Em que países da UE 100 euros rendem mais?",
+  "subtitle": "Em 2025, bens e serviços com um custo médio de €100 em toda a UE custavam cerca de €62,50 na Bulgária e €139,70 na Dinamarca. Isso tornava a Dinamarca mais do que o dobro mais cara que a Bulgária.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "O Eurostat utiliza a paridade do poder de compra e as taxas de câmbio para comparar os preços das famílias entre países. Com a média da UE fixada em 100, um valor de 80 significa que bens e serviços que custam, em média, 100 euros em toda a UE custam cerca de 80 euros localmente. Valores mais baixos significam que o mesmo orçamento compra mais.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
