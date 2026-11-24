@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Var i EU räcker 100 euro längst?",
+  "subtitle": "År 2025 kostade varor och tjänster som kostade 100 euro i genomsnitt i EU cirka 62,50 euro i Bulgarien och 139,70 euro i Danmark. Det gjorde Danmark mer än dubbelt så dyrt som Bulgarien.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat använder köpkraftspariteter och växelkurser för att jämföra hushållspriser mellan länder. Med EU-genomsnittet satt till 100 innebär ett värde på 80 att varor och tjänster som kostar 100 euro i genomsnitt i EU kostar cirka 80 euro lokalt. Lägre värden innebär att samma budget räcker till för mer.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
