@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Waar in de EU kun je met €100 het meest doen?",
+  "subtitle": "In 2025 kostten goederen en diensten met een gemiddelde waarde van €100 in de EU ongeveer €62,50 in Bulgarije en €139,70 in Denemarken. Daarmee was Denemarken meer dan twee keer zo duur als Bulgarije.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat gebruikt koopkrachtpariteiten en wisselkoersen om huishoudprijzen in verschillende landen te vergelijken. Met een EU-gemiddelde van 100 betekent een waarde van 80 dat goederen en diensten die gemiddeld €100 kosten in de EU, lokaal ongeveer €80 kosten. Lagere waarden betekenen dat je met hetzelfde budget meer kunt kopen.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
