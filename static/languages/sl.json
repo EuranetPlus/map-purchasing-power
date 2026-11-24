@@ -1,13 +1,11 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kje v EU gre 100 evrov najdlje?",
+  "subtitle": "Leta 2025 so blago in storitve, ki so v povprečju v EU stale 100 evrov, v Bolgariji stale približno 62,50 evra, na Danskem pa 139,70 evra. Zaradi tega je bila Danska več kot dvakrat dražja od Bolgarije.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat za primerjavo cen gospodinjstev med državami uporablja paritete kupne moči in menjalne tečaje. Povprečje v EU je 100, kar pomeni, da vrednost 80 pomeni, da blago in storitve, ki v povprečju v EU stanejo 100 evrov, lokalno stanejo približno 80 evrov. Nižje vrednosti pomenijo, da se z istim proračunom kupi več.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
