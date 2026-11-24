@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Fejn fl-UE €100 imorru l-aktar 'il bogħod?",
+  "subtitle": "Fl-2025, oġġetti u servizzi li jiswew €100 bħala medja madwar l-UE kienu jiswew madwar €62.50 fil-Bulgarija u €139.70 fid-Danimarka. Dan għamel lid-Danimarka aktar mid-doppju tal-prezz tal-Bulgarija.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "L-Eurostat juża l-paritajiet tal-poter tal-akkwist u r-rati tal-kambju biex iqabbel il-prezzijiet tad-djar bejn il-pajjiżi. Bil-medja tal-UE stabbilita għal 100, valur ta’ 80 ifisser li oġġetti u servizzi li jiswew €100 bħala medja madwar l-UE jiswew madwar €80 lokalment. Valuri aktar baxxi jfissru li l-istess baġit jixtri aktar.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
