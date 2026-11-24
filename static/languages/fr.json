@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Dans quel pays de l'UE 100 € peuvent-ils aller le plus loin ?",
+  "subtitle": "En 2025, les biens et services coûtant en moyenne 100 € dans l'UE coûtaient environ 62,50 € en Bulgarie et 139,70 € au Danemark. Le Danemark était donc plus de deux fois plus cher que la Bulgarie.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat utilise la parité de pouvoir d'achat (PPA) et les taux de change pour comparer les prix des biens et services destinés aux ménages dans les différents pays. La moyenne de l'UE étant fixée à 100, une valeur de 80 signifie que les biens et services coûtant en moyenne 100 € dans l'UE coûtent environ 80 € localement. Plus la valeur est basse, plus le même budget permet d'acheter de biens et services.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
