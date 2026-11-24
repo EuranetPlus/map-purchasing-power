@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kde v EU platí 100 eur nejdál?",
+  "subtitle": "V roce 2025 stálo zboží a služby v průměrné ceně 100 eur v celé EU v Bulharsku přibližně 62,50 eur a v Dánsku 139,70 eur. Díky tomu bylo Dánsko více než dvakrát dražší než Bulharsko.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat používá paritu kupní síly a směnné kurzy k porovnání cen domácností v různých zemích. Vzhledem k tomu, že průměr v EU je stanoven na 100, hodnota 80 znamená, že zboží a služby v průměrné ceně 100 EUR v celé EU stojí lokálně přibližně 80 EUR. Nižší hodnoty znamenají, že stejný rozpočet umožňuje nákup většího množství zboží.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
