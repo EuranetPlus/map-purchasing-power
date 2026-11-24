@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Gdje u EU 100 € ide najdalje?",
+  "subtitle": "U 2025. godini, roba i usluge u prosjeku koštale su 100 eura u cijeloj EU oko 62,50 eura u Bugarskoj i 139,70 eura u Danskoj. To je Dansku učinilo više nego dvostruko skupljom od Bugarske.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat koristi paritete kupovne moći i tečajeve za usporedbu cijena kućanstava u različitim zemljama. S prosjekom EU postavljenim na 100, vrijednost od 80 znači da roba i usluge koje u prosjeku koštaju 100 eura u cijeloj EU koštaju oko 80 eura lokalno. Niže vrijednosti znače da se s istim proračunom može kupiti više.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
