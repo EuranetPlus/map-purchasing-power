@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wo in der EU kommt man mit 100 € am weitesten?",
+  "subtitle": "Im Jahr 2025 kosteten Waren und Dienstleistungen, die in der EU durchschnittlich 100 € kosteten, in Bulgarien etwa 62,50 € und in Dänemark 139,70 €. Damit war Dänemark mehr als doppelt so teuer wie Bulgarien.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat verwendet Kaufkraftparitäten und Wechselkurse, um die Haushaltspreise in verschiedenen Ländern zu vergleichen. Bei einem EU-Durchschnitt von 100 bedeutet ein Wert von 80, dass Waren und Dienstleistungen, die EU-weit durchschnittlich 100 € kosten, vor Ort etwa 80 € kosten. Niedrigere Werte bedeuten, dass man mit demselben Budget mehr kaufen kann.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
