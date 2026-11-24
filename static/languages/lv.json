@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kur ES valstīs 100 eiro tiek piešķirti vistālāk?",
+  "subtitle": "2025. gadā preces un pakalpojumi, kuru vidējā cena visā ES bija 100 eiro, Bulgārijā maksāja aptuveni 62,50 eiro, bet Dānijā – 139,70 eiro. Tas Dāniju padarīja vairāk nekā divas reizes dārgāku nekā Bulgāriju.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat izmanto pirktspējas paritātes un valūtas kursus, lai salīdzinātu mājsaimniecību cenas dažādās valstīs. Tā kā ES vidējais rādītājs ir noteikts kā 100, vērtība 80 nozīmē, ka preces un pakalpojumi, kas vidēji maksā 100 eiro visā ES, vietējā tirgū maksā aptuveni 80 eiro. Zemākas vērtības nozīmē, ka par to pašu budžetu var nopirkt vairāk.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
