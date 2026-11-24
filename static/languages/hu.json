@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Az EU-ban hol van a legmesszebb a 100 eurós támogatás?",
+  "subtitle": "2025-ben az EU-ban átlagosan 100 euróba kerülő áruk és szolgáltatások Bulgáriában körülbelül 62,50 euróba, Dániában pedig 139,70 euróba kerültek. Ez Dániát több mint kétszer olyan drágává tette, mint Bulgáriát.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az Eurostat vásárlóerő-paritásokat és árfolyamokat használ a háztartási árak országok közötti összehasonlítására. Ha az EU átlagát 100-ra vesszük, a 80-as érték azt jelenti, hogy az EU-ban átlagosan 100 euróba kerülő áruk és szolgáltatások körülbelül 80 euróba kerülnek helyben. Az alacsonyabb értékek azt jelentik, hogy ugyanazzal a költségvetéssel többet lehet vásárolni.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
