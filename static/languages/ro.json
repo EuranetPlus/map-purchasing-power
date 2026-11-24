@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "În ce parte a UE ajung cel mai mult 100 de euro?",
+  "subtitle": "În 2025, bunurile și serviciile care costau în medie 100 EUR în UE costau aproximativ 62,50 EUR în Bulgaria și 139,70 EUR în Danemarca. Aceasta a făcut ca Danemarca să fie de peste două ori mai scumpă decât Bulgaria.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat utilizează paritățile puterii de cumpărare și cursurile de schimb pentru a compara prețurile gospodăriilor în diferite țări. Cu o medie UE stabilită la 100, o valoare de 80 înseamnă că bunurile și serviciile care costă în medie 100 EUR în UE costă aproximativ 80 EUR la nivel local. Valorile mai mici înseamnă că același buget permite achiziții mai mari.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
