@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kus EL-is ulatub 100 euro kõige kaugemale?",
+  "subtitle": "2025. aastal maksid ELis keskmiselt 100 eurot maksvad kaubad ja teenused Bulgaarias umbes 62,50 eurot ja Taanis 139,70 eurot. See tegi Taani Bulgaariast enam kui kaks korda kallimaks.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat kasutab ostujõu pariteete ja vahetuskursse, et võrrelda kodumajapidamiste hindu eri riikides. Kui ELi keskmine on 100, tähendab väärtus 80, et kaubad ja teenused, mis maksavad keskmiselt 100 eurot kogu ELis, maksavad kohalikul tasandil umbes 80 eurot. Madalamad väärtused tähendavad, et sama eelarvega saab osta rohkem.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
