@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Gdzie w UE 100 euro jest warte najwięcej?",
+  "subtitle": "W 2025 roku towary i usługi w cenie 100 euro w całej UE kosztowały średnio około 62,50 euro w Bułgarii i 139,70 euro w Danii. Dania była więc ponad dwukrotnie droższa niż Bułgaria.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Eurostat porównuje ceny gospodarstw domowych w różnych krajach, wykorzystując parytety siły nabywczej i kursy walut. Przy średniej unijnej ustalonej na poziomie 100, wartość 80 oznacza, że towary i usługi o wartości 100 euro kosztują średnio w całej UE około 80 euro w skali lokalnej. Niższe wartości oznaczają, że za ten sam budżet można kupić więcej.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
