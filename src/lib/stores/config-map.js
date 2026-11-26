@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
-  "title": "Where in the EU does €100 go furthest?",
-  "subtitle": "In 2025, goods and services costing €100 on average across the EU cost about €62.50 in Bulgaria and €139.70 in Denmark. That made Denmark more than twice as expensive as Bulgaria.",
+  "title": "In which EU country does €100 go the furthest?",
+  "subtitle": "In 2025, the average cost of goods and services across the EU was €100, whereas in Bulgaria it was €63 and in Denmark it was €140, making Denmark more than twice as expensive as Bulgaria.",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nAustria,AT,113.0,false,,,,,,,,,\nBelgium,BE,116.2,false,,,,,,,,,\nBulgaria,BG,62.5,false,,,,,,,,,\nCroatia,HR,78.4,false,,,,,,,,,\nCyprus,CY,89.2,false,,,,,,,,,\nCzechia,CZ,89.4,false,,,,,,,,,\nDenmark,DK,139.7,false,,,,,,,,,\nEstonia,EE,101.2,false,,,,,,,,,\nFinland,FI,120.8,false,,,,,,,,,\nFrance,FR,110.3,false,,,,,,,,,\nGermany,DE,108.3,false,,,,,,,,,\nGreece,EL,87.4,false,,,,,,,,,\nHungary,HU,77.5,false,,,,,,,,,\nIreland,IE,136.2,false,,,,,,,,,\nItaly,IT,97.1,false,,,,,,,,,\nLatvia,LV,83.2,false,,,,,,,,,\nLithuania,LT,82.8,false,,,,,,,,,\nLuxembourg,LU,131.5,false,,,,,,,,,\nMalta,MT,91.9,false,,,,,,,,,\nNetherlands,NL,115.6,false,,,,,,,,,\nPoland,PL,73.3,false,,,,,,,,,\nPortugal,PT,86.6,false,,,,,,,,,\nRomania,RO,65.1,false,,,,,,,,,\nSlovakia,SK,85.2,false,,,,,,,,,\nSlovenia,SI,89.3,false,,,,,,,,,\nSpain,ES,91.6,false,,,,,,,,,\nSweden,SE,121.0,false,,,,,,,,,",
   "parsedData": [
@@ -440,8 +441,8 @@ export const mapConfig = writable({
   "customUnitLabel": "",
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
-    "title": "Where in the EU does €100 go furthest?",
-    "subtitle": "In 2025, goods and services costing €100 on average across the EU cost about €62.50 in Bulgaria and €139.70 in Denmark. That made Denmark more than twice as expensive as Bulgaria.",
+    "title": "In which EU country does €100 go the furthest?",
+    "subtitle": "In 2025, the average cost of goods and services across the EU was €100, whereas in Bulgaria it was €63 and in Denmark it was €140, making Denmark more than twice as expensive as Bulgaria.",
     "textNoteDescription": "Note",
     "textNote": "Eurostat uses purchasing power parities and exchange rates to compare household prices across countries. With the EU average set at 100, a value of 80 means that goods and services costing €100 on average across the EU cost about €80 locally. Lower values mean the same budget buys more.",
     "textSourceDescription": "Source",
